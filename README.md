@@ -8,6 +8,8 @@
 
 </div>
 
+<br><br><br><br><br>
+
 ## 📥 How to Clone the Repository
 
 <div align="left">
